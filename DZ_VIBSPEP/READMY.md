@@ -83,9 +83,13 @@
     **foreach ( string ff in NS)**<br><br/>
     **{**<br><br/>
        
-        **Console.Write($" {ff}"); **<br><br/>
+        **Console.Write($" {ff}");**<br><br/>
                  
-    **}**<br><br/>
+    }  
    **Console.Write("]");**<br><br/>
 
 <br><br/>//////////////////////////////////////////////////////////////////////////
+
+БЛОК СХЕМА
+
+![Описание картинки с котиком](/EXAMPLE/DZ_VIBSPEP\block_scheme.png)
