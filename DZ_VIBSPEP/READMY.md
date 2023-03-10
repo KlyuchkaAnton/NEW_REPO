@@ -92,4 +92,4 @@
 
 БЛОК СХЕМА
 
-![Описание картинки с котиком](/EXAMPLE/DZ_VIBSPEP\block_scheme.png)
+![БЛОК СХЕМА](https://github.com/KlyuchkaAnton/NEW_REPO/blob/a9c4dedde0146c3203645672c0d07e61d875e4c8/DZ_VIBSPEP/block_scheme.png)
